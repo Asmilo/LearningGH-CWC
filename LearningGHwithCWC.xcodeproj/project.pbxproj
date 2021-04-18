@@ -11,6 +11,7 @@
 		CCF11715262B698B00C69225 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF11714262B698B00C69225 /* ContentView.swift */; };
 		CCF11717262B698C00C69225 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF11716262B698C00C69225 /* Assets.xcassets */; };
 		CCF1171A262B698C00C69225 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF11719262B698C00C69225 /* Preview Assets.xcassets */; };
+		CCF11723262CBD2500C69225 /* MyNewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF11722262CBD2500C69225 /* MyNewFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CCF11716262B698C00C69225 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCF11719262B698C00C69225 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CCF1171B262B698C00C69225 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCF11722262CBD2500C69225 /* MyNewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNewFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				CCF11712262B698B00C69225 /* LearningGHwithCWCApp.swift */,
+				CCF11722262CBD2500C69225 /* MyNewFile.swift */,
 				CCF11714262B698B00C69225 /* ContentView.swift */,
 				CCF11716262B698C00C69225 /* Assets.xcassets */,
 				CCF1171B262B698C00C69225 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCF11723262CBD2500C69225 /* MyNewFile.swift in Sources */,
 				CCF11715262B698B00C69225 /* ContentView.swift in Sources */,
 				CCF11713262B698B00C69225 /* LearningGHwithCWCApp.swift in Sources */,
 			);
