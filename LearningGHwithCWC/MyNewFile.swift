@@ -8,5 +8,5 @@
 import Foundation
 
 struct MyNewFile {
-    var name:String?
+    var name = "Michiel"
 }
